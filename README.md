@@ -27,19 +27,19 @@
 
 1. Actualizar el array con tal de que el resultado en consola luego sea:
 
-    <img src="readmeImg/puntoTres.png" alt="Punto dos ejemplo" class="imagenEjemplo"/>
+    <img src="readmeImg/puntoTres.png" alt="Punto dos ejemplo" style="width: 30%; padding-left: 20%;"/>
     
     <br>
 
 1. Insertar ``Dulce de leche`` al principio del array y `Miel` al final:
 
-    <img src="readmeImg/puntoCuatro.png" alt="Punto dos ejemplo" class="imagenEjemplo"/>
+    <img src="readmeImg/puntoCuatro.png" alt="Punto dos ejemplo" style="width: 30%; padding-left: 20%;"/>
     
     <br>
 
 1. Eliminar el producto `Comino, Pimienta, Sal gruesa` del array:
 
-    <img src="readmeImg/puntoCinco.png" alt="Punto dos ejemplo" class="imagenEjemplo"/>
+    <img src="readmeImg/puntoCinco.png" alt="Punto dos ejemplo" style="width: 30%; padding-left: 20%;"/>
     
     <br>
 
