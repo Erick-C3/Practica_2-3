@@ -1,10 +1,3 @@
-<style>
-.imagenEjemplo {
-    width: 30%;
-    padding-left: 20%;
-}
-</style>
-
 # Practica 2-3
 
 - Documentacion recomendada: [Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
@@ -28,7 +21,7 @@
 
 1. Mostrar los productos en consola como en la siguiente imagen:
 
-    <img src="readmeImg/puntoDos.png" alt="Punto dos ejemplo" class="imagenEjemplo"/>
+    <img src="readmeImg/puntoDos.png" alt="Punto dos ejemplo" style="width: 30%; padding-left: 20%;"/>
     
     <br>
 
